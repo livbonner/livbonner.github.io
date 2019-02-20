@@ -26,11 +26,11 @@ li {
 
 
 .list{
-  display: inline
+  display: inline;
 }
-img{
-  display: inline-block
-} 
+.photos{
+  display: center;
+}
 
 body {
 

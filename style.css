@@ -24,6 +24,10 @@ li {
   display: inline-block
 }
 
+.photos{
+  display: inline-block
+}
+
 .list{
   display: inline
 }

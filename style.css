@@ -1,0 +1,56 @@
+<!DOCTYPE CSS>
+background{
+background-color: cadetblue;
+}
+
+img {
+  float: left;
+  margin: 10px;
+}
+h1{
+  color:black;
+  font-size: 50px;
+  margin-bottom: 50px;
+  display: inline
+}
+h2{
+  color:darkseagreen;
+  font-size: 45px;
+  margin left: 70px;
+  display: inline
+}
+
+
+li {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: aliceblue;
+  display: inline
+}
+img{
+  display: inline-block
+} 
+
+body {
+
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: lightblue;
+}

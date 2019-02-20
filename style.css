@@ -3,9 +3,9 @@ background{
 background-color: cadetblue;
 }
 
-img {
+.logo {
   float: left;
-  margin: 10px;
+  margin-left: 20px;
 }
 h1{
   color:black;
@@ -25,6 +25,10 @@ li {
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   color: aliceblue;
+  display: inline
+}
+
+.list{
   display: inline
 }
 img{

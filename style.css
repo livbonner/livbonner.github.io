@@ -16,14 +16,10 @@ h1{
   margin-bottom: 20px;
 }
 
-h3{
-  color: blue;
-  font-size: 40px;
-}
 
 .list{
   display: inline;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', serif;
   font-size: 15px;
 }
 

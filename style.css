@@ -44,6 +44,7 @@ li {
     flex: 50%;
     max-width: 50%;
   }
+}
 
 /* unvisited link */
 a:link {

@@ -3,23 +3,24 @@
 .logo {
   float: left;
   margin-left: 40px;
+  margin-right: 20px;
 }
-h1{
-  color:black;
-  font-size: 50px;
-  margin-bottom: 50px;
-  display: inline
-}
+
 h2{
   color:darkseagreen;
-  font-size: 45px;
+  font-size: 40px;
   margin left: 70px;
   display: inline
 }
 
+h3{
+  color: blue;
+  font-size: 40px;
+}
 
 li {
   font-family: 'Montserrat', sans-serif;
+  color: navy
   font-size: 20px;
   display: inline-block
 }
@@ -32,9 +33,17 @@ li {
   display: center;
 }
 
-body {
-
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
+
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
 
 /* unvisited link */
 a:link {

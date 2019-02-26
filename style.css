@@ -10,7 +10,8 @@
 h2{
   color:darkseagreen;
   font-size: 25px;
-  display: inline
+  display: inline;
+  margin-bottom: 20px;
 }
 
 h3{

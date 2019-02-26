@@ -9,6 +9,7 @@
 
 h2{
   color:darkseagreen;
+  webkit-font-smoothing: antialiased;
   font-size: 25px;
   display: inline;
   margin-bottom: 20px;

@@ -12,6 +12,10 @@ h3{
   font-style:sans-serif;
 }
 
+.logo{
+  float: left;
+  margin-left: 20px;
+}
   
 /* unvisited link */
 a:link {

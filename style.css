@@ -25,7 +25,7 @@ h2{
   display: inline;
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
-  line-height: 1px;
+  line-height: 4px;
 }
 
 .photos{
@@ -61,7 +61,7 @@ h2{
   
 /* unvisited link */
 a:link {
-  color: black;
+  color: lightblue;
 }
 
 /* visited link */

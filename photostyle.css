@@ -1,12 +1,14 @@
 <!DOCTYPE CSS>
-h3{
-  font-size:18px;
-}
 
 h1{
   font-size: 30px;
   font-style:serif;
   color: darkseagreen;
+}
+
+h3{
+  font-size: 18px;
+  font-style:sans-serif;
 }
 
   

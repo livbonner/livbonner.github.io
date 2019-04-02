@@ -16,13 +16,16 @@ h1{
   margin-bottom: 20px;
 }
 
+h2{
+  margin-top: 20px;
+}
 
 .list{
   color:navy;
   display: inline;
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
-  margin-top: 15px;
+  line-height: 1px;
 }
 
 .photos{

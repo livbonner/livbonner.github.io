@@ -6,3 +6,25 @@ h1{
   font-style:serif;
   color: darkseagreen;
 }
+
+  
+/* unvisited link */
+a:link {
+  color: lightblue;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: lightblue;
+}
+
+/* selected link */
+a:active {
+  color: darkseagreen;
+}
+

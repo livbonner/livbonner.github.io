@@ -17,7 +17,7 @@ h1{
 }
 
 h2{
-  margin-top: 20px;
+  margin-top: 15px;
   line-height: 15px;
 }
 
@@ -77,5 +77,5 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: hotpink;
+  color: darkseagreen;
 }
